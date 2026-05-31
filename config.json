@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsuetch",
+        "uuid": 11603592,
+        "checksum": "n78wo"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
